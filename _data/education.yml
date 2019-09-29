@@ -1,10 +1,10 @@
+# Education Template
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  name: University of Toronto
+  dates: (September 2015 - ? 2020)
+  qualification: BSc in Computer Science and Mathematics
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Course taken:   
+    Computer Science: Data Structure; Software Design; Operating System; Principle of Programming Langugae; Algorithm; Compiler; Data Analysis; Machine Learning; Computer Vision
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    Mathematics: Calculus; Linear Algebra; Real Analysis; Complex Analysis; Graph Theory; Algebra; Number Theory; Geometry
