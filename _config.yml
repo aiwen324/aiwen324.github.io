@@ -18,7 +18,7 @@ linkedin_username: yifei-ai-3693b1186
 # about_title: About Me (Use this to override about section title)
 about_profile_image: "images/img1.jpg"
 about_content: | # this will include new lines to allow paragraphs
-  An undergraduate student studying in the University of Toronto. Major in Mathematics, Computer Science. Programmer, Nerd, Gamer. Interested in maths problems.
+  An undergraduate student studying in the University of Toronto. Major in Mathematics, Computer Science. Programmer, Gamer. Interested in maths problems.
 
   My skills:
     - C/C++; Java; Python; Objective-C; Racket (Functional Programming)
