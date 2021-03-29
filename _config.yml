@@ -5,7 +5,7 @@ repository: aiwen324/aiwen324.github.io
 # Personal info
 name: Yifei Ai
 # title: Your job title
-title: Undergraduate Student
+title: Graduate Student (Master of Engineering)
 email: aiwen324@gmail.com; yifei.ai@mail.utoronto.ca
 # website: github.com/aiwen324/aiwen324.github.io
 
@@ -18,11 +18,11 @@ linkedin_username: yifei-ai-3693b1186
 # about_title: About Me (Use this to override about section title)
 about_profile_image: "images/img1.jpg"
 about_content: | # this will include new lines to allow paragraphs
-  An undergraduate student studying in the University of Toronto. Major in Mathematics, Computer Science. Programmer, Gamer. Interested in maths problems.
+  First-year graduate student studying AI and analytics in the master of engineering at the University of Toronto. An undergraduate student studying in the University of Toronto. Major in Mathematics, Computer Science. Programmer, Gamer. Interested in maths problems.
 
   My skills:
     - C/C++; Java; Python; Objective-C; Racket (Functional Programming)
-    - Machine Learning framework (Pytorch, Keras)
+    - Machine Learning Framework (Pytorch, Keras)
     - Good Maths Background
 
 # Projects Section

@@ -6,6 +6,11 @@
   quote: >
     AI based on Monte-Carlo Tree Algorithm for playing Gomoku.
   description: | # this will include new lines to allow paragraphs
-    Working with another friend.
-    
+    Use Monte Carlo Tree Search algorithm to design an AI for playing Gomoku.
+
     About Monte Carlo Tree Search, check this [link](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
+
+- layout: top-middle
+  name: Reinforcement Learing on Car Following Model
+  description: |
+    A Car Following Model trained by reinforcement learning.
