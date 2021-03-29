@@ -10,19 +10,19 @@ email: aiwen324@gmail.com; yifei.ai@mail.utoronto.ca
 # website: github.com/aiwen324/aiwen324.github.io
 
 # Social links
-github_username:  aiwen324
-facebook_username: '100005102852534'
+github_username: aiwen324
+facebook_username: "100005102852534"
 linkedin_username: yifei-ai-3693b1186
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: "images/img1.jpg"
 about_content: | # this will include new lines to allow paragraphs
-  First-year graduate student studying AI and analytics in the master of engineering at the University of Toronto. An undergraduate student studying in the University of Toronto. Major in Mathematics, Computer Science. Programmer, Gamer. Interested in maths problems.
+  First-year graduate student studying AI and analytics in the master of engineering at the University of Toronto. I completed my undergraduate degree in the University of Toronto as well. My majors were Mathematics and Computer Science. Programmer, Gamer. Interested in maths problems.
 
   My skills:
     - C/C++; Java; Python; Objective-C; Racket (Functional Programming)
-    - Machine Learning Framework (Pytorch, Keras)
+    - Machine Learning Framework (Pytorch, Keras, Ray)
     - Good Maths Background
 
 # Projects Section
@@ -30,16 +30,14 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
-# experience_title: 
+# experience_title:
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
 
-
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 # more_content: | # this will include new lines to allow paragraphs
-    
 
 # Footer
 footer_show_references: false
@@ -53,17 +51,18 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+    "lib/",
+    "scripts/",
+    "docker-compose.yml",
   ]

@@ -9,12 +9,13 @@
 
     Mathematics: Calculus; Linear Algebra; Real Analysis; Complex Analysis; Graph Theory; Algebra; Number Theory; Geometry
 
-# - layout: left
-#   name: University of Toronto
-#   dates: (September 2020 - ?)
-#   qualification: Master of Engineering (AI and analytics focus)
-#   description: |
-#     Course:
-#       Operations Research for Engineering Management; Decision Support Systems; Introduction to Data Science and Analytics; Foundations of Data Analytics and Machine Learning; Markov Decision Processes
-#     Project:
-#       Reinforcement Learing on Car Following Model
+- layout: left
+  name: University of Toronto
+  dates: (September 2020 - ? 2021/2022)
+  qualification: Master of Engineering (AI and analytics focus)
+  description: |
+    Course taken:  
+    Operations Research for Engineering Management; Decision Support Systems; Introduction to Data Science and Analytics; Foundations of Data Analytics and Machine Learning; Markov Decision Processes
+
+    Project:  
+    Reinforcement Learing on Car Following Model

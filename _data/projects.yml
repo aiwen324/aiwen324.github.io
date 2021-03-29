@@ -10,7 +10,7 @@
 
     About Monte Carlo Tree Search, check this [link](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
 
-# - layout: top-middle
-#   name: Reinforcement Learing on Car Following Model
-#   description: |
-#     A Car Following Model trained by reinforcement learning.
+- layout: top-middle
+  name: Reinforcement Learing on Car Following Model
+  description: |
+    A Car Following Model trained by reinforcement learning.
