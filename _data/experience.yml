@@ -7,4 +7,6 @@
   quote: >
     A health care company
   description: | # this will include new lines to allow paragraphs
-    Develop Software on AWS and maintain an iOS app.
+    - Move some data from local Oracal database to AWS. Experience with ETL process.
+    - Add some features and fix some bugs for the internal iOS app.
+    - Add some features for a VR app in Windows VR, have some experience with Microsoft Mixed Reality Toolkit

@@ -12,5 +12,7 @@
 
 - layout: top-middle
   name: Reinforcement Learing on Car Following Model
-  description: |
+  quote: >
     A Car Following Model trained by reinforcement learning.
+  description: |
+    Use Deep Reinforcement Learning to train a car following model. The auto-vehicle is made to maximuize the traffic efficiency and safety. 
